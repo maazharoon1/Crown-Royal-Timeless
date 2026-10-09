@@ -1,0 +1,8 @@
+{
+  "name": "Crown Royal Timeless",
+  "description": "Discover Crown Royal Timeless in Kolb road south Houston Texas, Houston, TX, United States. A curated collection of exceptional timepieces defined by precision, craftsmanship, and timeless design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
